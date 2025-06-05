@@ -1,8 +1,25 @@
+# Streamlit for UI
 streamlit
-google-generativeai
-python-dotenv
+
+# Langchain core and integrations
 langchain
+langchain-google-genai
 langchain-community
-pyPDF2
+
+# Document parsing libraries
+PyPDF2
+python-docx
+python-pptx
+openpyxl
+
+# Data handling
+pandas
+
+# Vector store
 faiss-cpu
-langchain_google_genai
+
+# Google Generative AI
+google-generativeai
+
+# Environment variable loader
+python-dotenv
