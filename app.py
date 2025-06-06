@@ -312,7 +312,7 @@ class RAGSystem:
             return f"Error processing query: {str(e)}"
 
 def main():
-    st.title("📚 Multi-Document RAG System with FAQ Integration")
+    st.title("📚 Chat with SOP based SR")
     st.markdown("Upload documents of various formats and ask questions. The system also includes FAQ functionality.")
     
     # Initialize RAG system
